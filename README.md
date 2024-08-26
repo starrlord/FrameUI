@@ -2,6 +2,10 @@
 
 This web application allows you to control the art mode of a Samsung FrameTV. You can set specific images, start randomization with adjustable intervals, and view the currently set image, all through an intuitive and aesthetically pleasing interface.
 
+<p align=:center">
+<img src="https://github.com/user-attachments/assets/385b8f43-8caa-4a08-aa7f-db37c18b4138" width="650" title="FrameUI Gallery">
+</p>
+
 ## Features
 
 - **Set Image**: Choose an image from the gallery and set it as the current display on your FrameTV.
