@@ -77,6 +77,10 @@ This web application allows you to control the art mode of a Samsung FrameTV. Yo
 4. **Monitor Current Image**:
    - The top-left corner of the interface shows the currently set image and a countdown timer until the next change.
 
+## Special Thanks
+Special thanks to the creator of this repo for their awesome Samsung Smart TV WS API wrapper fork that can be found here:
+`https://github.com/NickWaterton/samsung-tv-ws-api`
+
 ## Contributing
 
 Feel free to fork this repository and submit pull requests. All contributions are welcome!
