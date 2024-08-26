@@ -22,8 +22,8 @@ This web application allows you to control the art mode of a Samsung FrameTV. Yo
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/frametv-control.git
-    cd frametv-control
+    git clone https://github.com/starrlord/FrameUI.git
+    cd FrameUI
     ```
 
 2. **Install Dependencies**:
@@ -43,12 +43,12 @@ This web application allows you to control the art mode of a Samsung FrameTV. Yo
 
 1. **Build the Docker Image**:
     ```bash
-    docker build -t frametv-control .
+    docker build -t frame-ui .
     ```
 
 2. **Run the Docker Container**:
     ```bash
-    docker run -d -p 5000:5000 -e FRAMETV_IP=192.168.x.x frametv-control
+    docker run -d -p 5000:5000 -e FRAMETV_IP=192.168.x.x frame-ui
     ```
     Replace `192.168.x.x` with the IP address of your FrameTV.
 
